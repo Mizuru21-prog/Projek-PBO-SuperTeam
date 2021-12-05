@@ -11,4 +11,7 @@ Projek final PBO
 # Menjalankan Program
 
 - Clone Program
+- Buka folde TugasSuperTeam
+- Buka folder src
+- ke folder main
 - Jalankan Main.java
